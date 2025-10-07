@@ -1,6 +1,6 @@
 # VersaCommunity
 
-<img src="docs/media/logo-white.png" alt="VersaNode OS logo" width="50%"/>
+<img src="docs/media/logo-white.png" alt="VersaNode logo" width="50%"/>
 
 Welcome to the **VersaNode** community space!  
 This repo is meant for open discussion, sharing ideas, asking questions, and collaborating around the Versa Home Hub ecosystem.
